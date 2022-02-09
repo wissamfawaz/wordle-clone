@@ -13,3 +13,7 @@ In each guess you supply, a correct letter with a position matching its spot in 
 A correct letter in the wrong spot is colored in yellow.
 
 Last but least, an incorrect letter will be colored in gray.
+
+## Game Preview
+
+![Game Preview](gamePreview.png)
